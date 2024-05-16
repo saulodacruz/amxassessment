@@ -7,7 +7,7 @@ That project has two projects necessary to you do the tests, the first is one We
 ## Installation
 
 ```sh
-$ git pull url-git...
+$ git clone https://github.com/saulodacruz/amxassessment.git
 ```
 
 ### Compile
