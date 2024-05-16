@@ -20,7 +20,7 @@ $ dotnet build
 ```sh
 1 - Set multiple projects to execute. The Web and the API (AmxAssessment).
 2 - $ dotnet run -p project-name
-3 - To make your tests
+3 - Do your tests
 ```
 
 ## Test
